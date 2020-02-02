@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96838811670",
+    "firebase_url": "https://takepicture-8a86e.firebaseio.com",
+    "project_id": "takepicture-8a86e",
+    "storage_bucket": "takepicture-8a86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96838811670:android:e641198a25ce6a90c2b537",
+        "android_client_info": {
+          "package_name": "com.example.takepicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96838811670-b752q3k2gnkdt128ngk8qtr2dmfpl9gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takepicture",
+            "certificate_hash": "67ed35bcf8ac0eff33cf93cf29aba6ebdaadc621"
+          }
+        },
+        {
+          "client_id": "96838811670-rvcm9dhpm03mfhffmv01mveh6if01l1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDH-8VqGAbeFN-LvQ94nO_qHSIsHOK0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96838811670-rvcm9dhpm03mfhffmv01mveh6if01l1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

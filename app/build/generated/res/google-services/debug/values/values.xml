@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">96838811670-rvcm9dhpm03mfhffmv01mveh6if01l1d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://takepicture-8a86e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">96838811670</string>
+    <string name="google_api_key" translatable="false">AIzaSyCoDH-8VqGAbeFN-LvQ94nO_qHSIsHOK0o</string>
+    <string name="google_app_id" translatable="false">1:96838811670:android:e641198a25ce6a90c2b537</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoDH-8VqGAbeFN-LvQ94nO_qHSIsHOK0o</string>
+    <string name="google_storage_bucket" translatable="false">takepicture-8a86e.appspot.com</string>
+    <string name="project_id" translatable="false">takepicture-8a86e</string>
+</resources>
