@@ -11,133 +11,164 @@
 9-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.CAMERA" />
-11-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:5:5-65
-11-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:5:22-62
+11-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:5-65
+11-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:22-62
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:5-81
-12-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:22-78
+12-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:5-81
+12-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:22-78
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:5-67
-13-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:22-64
+13-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:5-67
+13-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:22-64
 14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-14-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:5-71
-14-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:22-68
+14-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:5-71
+14-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:22-68
 15    <uses-permission android:name="android.permission.STORAGE" />
-15-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:5-66
-15-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:22-63
+15-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:10:5-66
+15-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:10:22-63
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->[com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
-16-->[com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:22-76
+16-->[com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+16-->[com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:22-76
 17
 18    <application
-18-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:11:5-36:19
+18-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:12:5-55:19
 19        android:allowBackup="true"
-19-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:12:9-35
+19-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:13:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-20-->[androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:24:18-86
+20-->[androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:24:18-86
 21        android:debuggable="true"
 22        android:icon="@mipmap/ic_launcher"
-22-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:13:9-43
+22-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:14:9-43
 23        android:label="@string/app_name"
-23-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:14:9-41
+23-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:15:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:15:9-54
+24-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:16:9-54
 25        android:supportsRtl="true"
-25-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:16:9-35
+25-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:17:9-35
 26        android:testOnly="true"
-27        android:theme="@style/AppTheme" >
-27-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:17:9-40
-28        <activity android:name="com.example.takepicture.Audio" />
-28-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:18:9-52
-28-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:18:19-40
-29        <activity android:name="com.example.takepicture.MainActivity" >
-29-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:19:9-25:20
-29-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:19:19-47
-30            <intent-filter>
-30-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:20:13-24:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:17-69
-31-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:23:17-77
-33-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:23:27-74
-34            </intent-filter>
-35        </activity>
-36
-37        <provider
-37-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:27:9-35:20
-38            android:name="androidx.core.content.FileProvider"
-38-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:28:13-62
-39            android:authorities="com.example.takepicture.fileprovider"
-39-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:29:13-71
-40            android:exported="false"
-40-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:30:13-37
-41            android:grantUriPermissions="true" >
-41-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:31:13-47
-42            <meta-data
-42-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:32:13-34:54
-43                android:name="android.support.FILE_PROVIDER_PATHS"
-43-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:33:17-67
-44                android:resource="@xml/file_paths" />
-44-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:34:17-51
-45        </provider>
-46
-47        <activity
-47-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
-48            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-48-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
-49            android:excludeFromRecents="true"
-49-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
-50            android:exported="true"
-50-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
-51            android:launchMode="singleTask"
-51-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
-52            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-52-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
-53            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-53-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
-54
-55        <service
-55-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
-56            android:name="com.google.firebase.components.ComponentDiscoveryService"
-56-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
-57            android:exported="false" >
-57-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
-58            <meta-data
-58-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
-59                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-59-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
-60                android:value="com.google.firebase.components.ComponentRegistrar" />
-60-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
-61        </service>
-62
-63        <activity
-63-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
-64            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-64-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
-65            android:exported="false"
-65-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
-66            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-66-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
-67
-68        <provider
-68-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
-69            android:name="com.google.firebase.provider.FirebaseInitProvider"
-69-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
-70            android:authorities="com.example.takepicture.firebaseinitprovider"
-70-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
-71            android:exported="false"
-71-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
-72            android:initOrder="100" />
-72-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
-73
-74        <meta-data
-74-->[com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
-75            android:name="com.google.android.gms.version"
-75-->[com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
-76            android:value="@integer/google_play_services_version" />
-76-->[com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
-77    </application>
-78
-79</manifest>
+27        android:theme="@style/AppTheme"
+27-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:18:9-40
+28        android:usesCleartextTraffic="true" >
+28-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:19:9-44
+29        <activity android:name="com.example.takepicture.finalResult" />
+29-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:9-58
+29-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:19-46
+30
+31        <uses-library
+31-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:23:9-25:40
+32            android:name="org.apache.http.legacy"
+32-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:24:13-50
+33            android:required="false" />
+33-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:25:13-37
+34
+35        <activity
+35-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:27:9-29:52
+36            android:name="com.example.takepicture.Picture"
+36-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:28:13-36
+37            android:screenOrientation="portrait" />
+37-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:29:13-49
+38        <activity
+38-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:30:9-32:52
+39            android:name="com.example.takepicture.Audio2"
+39-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:31:13-35
+40            android:screenOrientation="portrait" />
+40-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:32:13-49
+41        <activity
+41-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:33:9-35:52
+42            android:name="com.example.takepicture.Audio"
+42-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:34:13-34
+43            android:screenOrientation="portrait" />
+43-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:35:13-49
+44        <activity
+44-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:36:9-44:20
+45            android:name="com.example.takepicture.MainActivity"
+45-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:37:13-41
+46            android:screenOrientation="portrait" >
+46-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:38:13-49
+47            <intent-filter>
+47-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:39:13-43:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:40:17-69
+48-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:40:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:42:17-77
+50-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:42:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <provider
+54-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:46:9-54:20
+55            android:name="androidx.core.content.FileProvider"
+55-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:47:13-62
+56            android:authorities="com.example.takepicture.fileprovider"
+56-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:48:13-71
+57            android:exported="false"
+57-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:49:13-37
+58            android:grantUriPermissions="true" >
+58-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:50:13-47
+59            <meta-data
+59-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:51:13-53:54
+60                android:name="android.support.FILE_PROVIDER_PATHS"
+60-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:52:17-67
+61                android:resource="@xml/file_paths" />
+61-->/home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:53:17-51
+62        </provider>
+63
+64        <activity
+64-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+65            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+65-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+66            android:excludeFromRecents="true"
+66-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+67            android:exported="true"
+67-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+68            android:launchMode="singleTask"
+68-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+69            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+69-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+70            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+70-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+71
+72        <service
+72-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+73            android:name="com.google.firebase.components.ComponentDiscoveryService"
+73-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+74            android:exported="false" >
+74-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+75            <meta-data
+75-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+76                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+76-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+78        </service>
+79
+80        <activity
+80-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+81            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+81-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+82            android:exported="false"
+82-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+83            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+83-->[com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+84
+85        <provider
+85-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+86            android:name="com.google.firebase.provider.FirebaseInitProvider"
+86-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+87            android:authorities="com.example.takepicture.firebaseinitprovider"
+87-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+88            android:exported="false"
+88-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+89            android:initOrder="100" />
+89-->[com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+90
+91        <meta-data
+91-->[com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+92            android:name="com.google.android.gms.version"
+92-->[com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+93            android:value="@integer/google_play_services_version" />
+93-->[com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+94    </application>
+95
+96</manifest>

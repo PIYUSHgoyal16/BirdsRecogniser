@@ -1,248 +1,296 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/53af1f37d65227eb5bcf361cc28c52ea/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3586cf9e5d37a5be2bbe710dbdaeb36f/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:15:1-26:12
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/0d591564b3e6b778da35397d9aa9ac79/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/a9a8e1f1e8e3b1b97a52377b34388499/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/b173cd4112aa36be6ada2d2196752a8f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/318e04956a285e6ac0c77fe3b7358531/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/262cee874a29045d29703cd5d56127c0/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/cb28eb37786c46aa315fbb0bc9e79ad7/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ca9d99d524b8448aa91b8144bcf3c6f5/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b003c351741550b194cdb6cf800bc712/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/72fd5c95edc423dc1af619ee702ed70a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e7dbd70914629c845196c3655d3bfc05/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/433027588162b4c827dc66cf8d0cf604/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/48004d795f63c95c3eeb2f1e00460759/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f1af6724f4620915405752d62143122a/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/06482c8496c7881eda29e8e3fdd8540d/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ad597f9db74210acc8d949d4ef87c8a9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/60b8cdada680474c86c3f823c8ae649a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/60e2d16f38193533dcd0a1ed2d4c5f0b/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5da003ad04bc8fdad9921e2eb26b2991/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/886df16c747a87ca7b380bdbaa998077/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/1a15599b2b3acac526499af7f12be30d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ed4b00badddeff4748fb97b252a63a9b/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/3fca54826ea9abcd3906e8e5dfff959c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1e5b3e7ff90977513d02b308ca82682/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/2c7550b326037ca9da2ff8634b91d68c/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a86cec402db0cf6f732d23e6f9d53cb5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/7c12716567d2ccb33355e656712d39a4/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/fa61d2590733005073428aac79eb5436/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/653b774f06aa8ef4f66c469d210d03cf/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bc54237dd241608a60f3e5f1afb0cd23/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/71b619f01309f419ed6b9a79fb62df67/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5e16f5c1b50d3925eacca3aafb488976/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/9334aced248444506050b27395495422/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f15566ac99d93f31d0227f09e1f27c57/print-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8939fe1919743990d39aad7a6f6bac52/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/218c72388f4c59edd047e46decbe35b5/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/18229fca3def79c606ccbf7e05b393fc/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/2dc13459cef00c272fc8132a3021934d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1d011f7d5336445b088bdb864f9f7fa/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/e834f5c83243ab9c189dcf9e13488535/jetified-volleyplus-0.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/997374e7413bf3f03a4f87c0520b681b/jetified-play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/fcc0417b31959dd3110658bb667921c9/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/919c8903827702ebcd5c0439284a1cd6/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/39ec3359ee0f0400153a8a861f8cab19/jetified-firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/668947f34a8f04816f00c60f85fffe21/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/122ab1fc48c0125d96d3842022cfd392/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b561fe902ccf79e67c545e3b10a71735/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/7a738711530f77560c6c0245409e179f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/38a1ef1b557e7ec4865927a4a684a120/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a2df086bbca5bf1eef5d22a2032442e4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/76e177ad02ebb9a5757189d1efadbd09/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/02d5c28946ec5333b6cd4ecf67bf5376/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f66ac683d84aeb3cad423d123d6086d2/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/132cdd845420cd110d7159e965e67a43/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/925649f6bf2b12f9dfc2456e9d6222e0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b515827463d61bb8a1612724ef074dd7/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/532455cad284577ae6b98cd29bee8d1f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/265237599771bca63b655f18cd0207ff/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ec8236141528f94e43bd444fb256c3b7/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/aaa1cac7a8029acdc5fdf29740c6388d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/868d99c8cb274c33cff760ba9fa3abd8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8deb4ebd6356946809bd909af243e84b/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bee2833067d17a4ce68db9f50f6d251b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/436c7896b9904b8ea53bb5c53fb92f8e/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/c010d64f30fc1ac0da6d599875251d82/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b349c1edc4dced47b218c576dca0636b/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a476b0624712cd26e146f1ec65c7fe18/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0a918b14cb62ce694bb3875de790c6d7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0efc811764f25a54af502579ff2bbc6b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/907483c4ef6e62908c0d66edabbe0379/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/83c141ec90b0072905793acaecbe0cd8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8a90ba012a9c8c87a9439be892f636bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5cdce6327bb9d63829f6e7b014d1ae63/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:3:5-38
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:4:5-38
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:1-57:12
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:5:5-65
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:5:22-62
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:5-81
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.INTERNET
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:5-67
-MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:22-64
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:5-71
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:5-71
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:8:22-68
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:22-68
 uses-permission#android.permission.STORAGE
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:5-66
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:10:5-66
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:9:22-63
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:10:22-63
 application
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:11:5-36:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3586cf9e5d37a5be2bbe710dbdaeb36f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3586cf9e5d37a5be2bbe710dbdaeb36f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/a9a8e1f1e8e3b1b97a52377b34388499/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/a9a8e1f1e8e3b1b97a52377b34388499/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/b173cd4112aa36be6ada2d2196752a8f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/b173cd4112aa36be6ada2d2196752a8f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1e5b3e7ff90977513d02b308ca82682/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1e5b3e7ff90977513d02b308ca82682/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:12:5-55:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/218c72388f4c59edd047e46decbe35b5/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/218c72388f4c59edd047e46decbe35b5/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/18229fca3def79c606ccbf7e05b393fc/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/18229fca3def79c606ccbf7e05b393fc/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/e834f5c83243ab9c189dcf9e13488535/jetified-volleyplus-0.1.4/AndroidManifest.xml:9:5-20
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/e834f5c83243ab9c189dcf9e13488535/jetified-volleyplus-0.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/fcc0417b31959dd3110658bb667921c9/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/fcc0417b31959dd3110658bb667921c9/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/919c8903827702ebcd5c0439284a1cd6/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/919c8903827702ebcd5c0439284a1cd6/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bee2833067d17a4ce68db9f50f6d251b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bee2833067d17a4ce68db9f50f6d251b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:16:9-35
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:20:9-48
 	android:roundIcon
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:15:9-54
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:18:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:19:9-44
+activity#com.example.takepicture.finalResult
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:9-58
+	android:name
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:19-46
+uses-library#org.apache.http.legacy
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:24:13-50
+activity#com.example.takepicture.Picture
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:28:13-36
+activity#com.example.takepicture.Audio2
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:31:13-35
 activity#com.example.takepicture.Audio
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:18:9-52
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:18:19-40
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:34:13-34
 activity#com.example.takepicture.MainActivity
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:19:9-25:20
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:36:9-44:20
+	android:screenOrientation
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:19:19-47
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:37:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:39:13-43:29
 action#android.intent.action.MAIN
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:40:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:42:27-74
 provider#androidx.core.content.FileProvider
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:27:9-35:20
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:46:9-54:20
 	android:grantUriPermissions
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:31:13-47
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:50:13-47
 	android:authorities
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:29:13-71
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:48:13-71
 	android:exported
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:30:13-37
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:28:13-62
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:47:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:32:13-34:54
+ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:51:13-53:54
 	android:resource
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:34:17-51
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:53:17-51
 	android:name
-		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:33:17-67
+		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml:52:17-67
 uses-sdk
 INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/53af1f37d65227eb5bcf361cc28c52ea/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/53af1f37d65227eb5bcf361cc28c52ea/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3586cf9e5d37a5be2bbe710dbdaeb36f/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3586cf9e5d37a5be2bbe710dbdaeb36f/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/0d591564b3e6b778da35397d9aa9ac79/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/0d591564b3e6b778da35397d9aa9ac79/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/a9a8e1f1e8e3b1b97a52377b34388499/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/a9a8e1f1e8e3b1b97a52377b34388499/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/b173cd4112aa36be6ada2d2196752a8f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/b173cd4112aa36be6ada2d2196752a8f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/318e04956a285e6ac0c77fe3b7358531/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/318e04956a285e6ac0c77fe3b7358531/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/262cee874a29045d29703cd5d56127c0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/262cee874a29045d29703cd5d56127c0/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/cb28eb37786c46aa315fbb0bc9e79ad7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/cb28eb37786c46aa315fbb0bc9e79ad7/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ca9d99d524b8448aa91b8144bcf3c6f5/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ca9d99d524b8448aa91b8144bcf3c6f5/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b003c351741550b194cdb6cf800bc712/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b003c351741550b194cdb6cf800bc712/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/72fd5c95edc423dc1af619ee702ed70a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/72fd5c95edc423dc1af619ee702ed70a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e7dbd70914629c845196c3655d3bfc05/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e7dbd70914629c845196c3655d3bfc05/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/433027588162b4c827dc66cf8d0cf604/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/433027588162b4c827dc66cf8d0cf604/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/48004d795f63c95c3eeb2f1e00460759/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/48004d795f63c95c3eeb2f1e00460759/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f1af6724f4620915405752d62143122a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f1af6724f4620915405752d62143122a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/06482c8496c7881eda29e8e3fdd8540d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/06482c8496c7881eda29e8e3fdd8540d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ad597f9db74210acc8d949d4ef87c8a9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ad597f9db74210acc8d949d4ef87c8a9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/60b8cdada680474c86c3f823c8ae649a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/60b8cdada680474c86c3f823c8ae649a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/60e2d16f38193533dcd0a1ed2d4c5f0b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/60e2d16f38193533dcd0a1ed2d4c5f0b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5da003ad04bc8fdad9921e2eb26b2991/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5da003ad04bc8fdad9921e2eb26b2991/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/886df16c747a87ca7b380bdbaa998077/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/886df16c747a87ca7b380bdbaa998077/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/1a15599b2b3acac526499af7f12be30d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/1a15599b2b3acac526499af7f12be30d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ed4b00badddeff4748fb97b252a63a9b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ed4b00badddeff4748fb97b252a63a9b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/3fca54826ea9abcd3906e8e5dfff959c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/3fca54826ea9abcd3906e8e5dfff959c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1e5b3e7ff90977513d02b308ca82682/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1e5b3e7ff90977513d02b308ca82682/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/2c7550b326037ca9da2ff8634b91d68c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/2c7550b326037ca9da2ff8634b91d68c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a86cec402db0cf6f732d23e6f9d53cb5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a86cec402db0cf6f732d23e6f9d53cb5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/7c12716567d2ccb33355e656712d39a4/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/7c12716567d2ccb33355e656712d39a4/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/fa61d2590733005073428aac79eb5436/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/fa61d2590733005073428aac79eb5436/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/653b774f06aa8ef4f66c469d210d03cf/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/653b774f06aa8ef4f66c469d210d03cf/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bc54237dd241608a60f3e5f1afb0cd23/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bc54237dd241608a60f3e5f1afb0cd23/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/71b619f01309f419ed6b9a79fb62df67/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/71b619f01309f419ed6b9a79fb62df67/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5e16f5c1b50d3925eacca3aafb488976/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5e16f5c1b50d3925eacca3aafb488976/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/9334aced248444506050b27395495422/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/9334aced248444506050b27395495422/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f15566ac99d93f31d0227f09e1f27c57/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f15566ac99d93f31d0227f09e1f27c57/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8939fe1919743990d39aad7a6f6bac52/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8939fe1919743990d39aad7a6f6bac52/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/218c72388f4c59edd047e46decbe35b5/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/218c72388f4c59edd047e46decbe35b5/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/18229fca3def79c606ccbf7e05b393fc/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/18229fca3def79c606ccbf7e05b393fc/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/2dc13459cef00c272fc8132a3021934d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/2dc13459cef00c272fc8132a3021934d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1d011f7d5336445b088bdb864f9f7fa/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b1d011f7d5336445b088bdb864f9f7fa/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/e834f5c83243ab9c189dcf9e13488535/jetified-volleyplus-0.1.4/AndroidManifest.xml:7:5-43
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/e834f5c83243ab9c189dcf9e13488535/jetified-volleyplus-0.1.4/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/997374e7413bf3f03a4f87c0520b681b/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/997374e7413bf3f03a4f87c0520b681b/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/fcc0417b31959dd3110658bb667921c9/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/fcc0417b31959dd3110658bb667921c9/jetified-firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/919c8903827702ebcd5c0439284a1cd6/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/919c8903827702ebcd5c0439284a1cd6/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/39ec3359ee0f0400153a8a861f8cab19/jetified-firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/39ec3359ee0f0400153a8a861f8cab19/jetified-firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/668947f34a8f04816f00c60f85fffe21/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/668947f34a8f04816f00c60f85fffe21/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/122ab1fc48c0125d96d3842022cfd392/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/122ab1fc48c0125d96d3842022cfd392/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b561fe902ccf79e67c545e3b10a71735/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b561fe902ccf79e67c545e3b10a71735/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/7a738711530f77560c6c0245409e179f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/7a738711530f77560c6c0245409e179f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/38a1ef1b557e7ec4865927a4a684a120/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/38a1ef1b557e7ec4865927a4a684a120/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a2df086bbca5bf1eef5d22a2032442e4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a2df086bbca5bf1eef5d22a2032442e4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/76e177ad02ebb9a5757189d1efadbd09/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/76e177ad02ebb9a5757189d1efadbd09/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/02d5c28946ec5333b6cd4ecf67bf5376/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/02d5c28946ec5333b6cd4ecf67bf5376/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f66ac683d84aeb3cad423d123d6086d2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/f66ac683d84aeb3cad423d123d6086d2/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/132cdd845420cd110d7159e965e67a43/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/132cdd845420cd110d7159e965e67a43/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/925649f6bf2b12f9dfc2456e9d6222e0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/925649f6bf2b12f9dfc2456e9d6222e0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b515827463d61bb8a1612724ef074dd7/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b515827463d61bb8a1612724ef074dd7/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/532455cad284577ae6b98cd29bee8d1f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/532455cad284577ae6b98cd29bee8d1f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/265237599771bca63b655f18cd0207ff/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/265237599771bca63b655f18cd0207ff/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ec8236141528f94e43bd444fb256c3b7/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/ec8236141528f94e43bd444fb256c3b7/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/aaa1cac7a8029acdc5fdf29740c6388d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/aaa1cac7a8029acdc5fdf29740c6388d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/868d99c8cb274c33cff760ba9fa3abd8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/868d99c8cb274c33cff760ba9fa3abd8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8deb4ebd6356946809bd909af243e84b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8deb4ebd6356946809bd909af243e84b/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bee2833067d17a4ce68db9f50f6d251b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/bee2833067d17a4ce68db9f50f6d251b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/436c7896b9904b8ea53bb5c53fb92f8e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/436c7896b9904b8ea53bb5c53fb92f8e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/c010d64f30fc1ac0da6d599875251d82/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/c010d64f30fc1ac0da6d599875251d82/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b349c1edc4dced47b218c576dca0636b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/b349c1edc4dced47b218c576dca0636b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a476b0624712cd26e146f1ec65c7fe18/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/a476b0624712cd26e146f1ec65c7fe18/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0a918b14cb62ce694bb3875de790c6d7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0a918b14cb62ce694bb3875de790c6d7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0efc811764f25a54af502579ff2bbc6b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0efc811764f25a54af502579ff2bbc6b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/907483c4ef6e62908c0d66edabbe0379/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/907483c4ef6e62908c0d66edabbe0379/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/83c141ec90b0072905793acaecbe0cd8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/83c141ec90b0072905793acaecbe0cd8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8a90ba012a9c8c87a9439be892f636bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/8a90ba012a9c8c87a9439be892f636bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5cdce6327bb9d63829f6e7b014d1ae63/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/5cdce6327bb9d63829f6e7b014d1ae63/print-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -254,60 +302,60 @@ INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/Androi
 		ADDED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 		INJECTED from /home/piyush/AndroidStudioProjects/TakePicture/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/b941a0f043debe3e3a407536f36f0fc3/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+ADDED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/85a7c70d7464b69bcbc2cf140f48ff1c/jetified-firebase-database-16.0.4/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/6720e720bab43afc758d5e8360769f5f/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:22-76
+		ADDED from [com.google.firebase:firebase-storage:16.0.4] /home/piyush/.gradle/caches/transforms-2/files-2.1/83cb7bb35c22fc3b32f17d3bc7259ddc/jetified-firebase-storage-16.0.4/AndroidManifest.xml:23:22-76
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
 	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/cf07ba67f371e59e5fd65b610a5805b7/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/piyush/.gradle/caches/transforms-2/files-2.1/747528e696af7a98e583ff2b447081dc/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/214d70068932d1cd69d72122e1e3f5ff/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/piyush/.gradle/caches/transforms-2/files-2.1/9eccf0b6e37253240fe57175123ad419/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/9ac2ab31c9a07ed490953e45b0046702/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/piyush/.gradle/caches/transforms-2/files-2.1/3f8b85086430da5694a9cc4a6e7ed1ab/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/326fef5da298430cb33893bd4d0d9ad7/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/piyush/.gradle/caches/transforms-2/files-2.1/0877dcb27f8195e92df86ddafefceda8/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58

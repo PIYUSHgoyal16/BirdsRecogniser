@@ -4,7 +4,7 @@
             "outputFile": "/home/piyush/AndroidStudioProjects/TakePicture/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/piyush/.gradle/caches/transforms-2/files-2.1/e91594602c73eba9f0c6fb1745d43dba/core-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/home/piyush/.gradle/caches/transforms-2/files-2.1/130f40789f3addc98db185e1dbe16726/core-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/piyush/.gradle/caches/transforms-2/files-2.1/53af1f37d65227eb5bcf361cc28c52ea/appcompat-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/home/piyush/.gradle/caches/transforms-2/files-2.1/8939fe1919743990d39aad7a6f6bac52/appcompat-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

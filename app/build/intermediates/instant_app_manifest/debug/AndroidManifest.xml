@@ -25,9 +25,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
-        android:theme="@style/AppTheme" >
-        <activity android:name="com.example.takepicture.Audio" />
-        <activity android:name="com.example.takepicture.MainActivity" >
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.takepicture.finalResult" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.example.takepicture.Picture"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.takepicture.Audio2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.takepicture.Audio"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.takepicture.MainActivity"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
